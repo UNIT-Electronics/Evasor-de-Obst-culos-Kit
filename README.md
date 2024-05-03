@@ -11,6 +11,6 @@ Se proporciona información útil para el armado de este robot con el siguiente 
 * [Guía de conexiones](https://github.com/UNIT-Electronics/Evasor-de-Obstaculos-Kit/blob/main/DIAGRAMA%20DE%20CONEXI%C3%93N.pdf)
 * [Código en Arduino IDE](https://github.com/UNIT-Electronics/Evasor-de-Obstaculos-Kit/blob/main/Robot-Evasor-Obstaculos-2024.ino)
 
-![3D](https://uelectronics.com/wp-content/uploads/2022/02/Evasor-de-Obstaculos-.png)
+![3D](https://uelectronics.com/wp-content/uploads/2022/02/3d-evasor.png)
 
 
